@@ -23,7 +23,7 @@ Následující frameworky budou použity v bakalářské práci:
 
 ## Licence
 
-Distribuováno pod záštitou **MIT licence**.
+Distribuováno pod záštitou licence **MIT**.
 
 
 ## Kontakt
